@@ -12,7 +12,7 @@ This Android application is a two-page sandwich ordering app developed for COS30
 Make sure Git is installed, then run:
 
 ```powershell
-git clone https://github.com/print1Username/COS30017-Assignment-3--Task-1.git
+git clone https://github.com/COS30017-Software-Development/COS30017-Assignment-3--Task-1.git
 cd COS30017-Assignment-3--Task-1
 ```
 
